@@ -125,11 +125,11 @@ button:hover{
 
 @media (max-width:650px) {
     .categories-box{
-        margin: 1rem 2rem;
+        margin: 1rem .8rem;
         display: block;
     }
     .box{
-        width: 22rem;
+        width: 18rem;
         height: 13rem;
         margin-bottom: 1rem;
     }
